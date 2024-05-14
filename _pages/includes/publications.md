@@ -15,9 +15,33 @@
 
 **Yong Li**, Jiabei Zeng, Shiguang Shan
 
-*IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**), 2020.*
+*IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**), 2022.*
 
 [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9145674)
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> TPAMI 2020 </div> -->
+        <img src='images/article/figure14.png' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Instance-Consistent Fair Face Recognition**
+
+**Yong Li**, Yufei Sun, Zhen Cui, Pengcheng Shen, Shiguang Shan
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**), accepted.*
 
 </div>
 </div>
@@ -45,6 +69,33 @@
 
 [\[PDF\]](https://arxiv.org/abs/2303.13802)
 [\[Code\]](https://github.com/mdswyz/DMD)
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> CVPR 2016 </div> -->
+        <img src='images/article/figure15.jpg' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Incomplete multimodality-diffused emotion recognition**
+
+Yuanzhi Wang, **Yong Li**, Zhen Cui
+
+*Neural Information Processing Systems(**NeurIPS**), 2023.*
+
+[\[PDF\]](https://proceedings.neurips.cc/paper_files/paper/2023/file/372cb7805eaccb2b7eed641271a30eec-Paper-Conference.pdf)
+[\[Code\]](https://github.com/mdswyz/IMDer)
 
 </div>
 </div>
