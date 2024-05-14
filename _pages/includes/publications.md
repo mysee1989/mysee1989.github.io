@@ -90,7 +90,7 @@
 
 **Incomplete multimodality-diffused emotion recognition**
 
-Yuanzhi Wang, **Yong Li**, Zhen Cui
+Yuanzhi Wang, **Yong Li**, Zhen Cui*
 
 *Neural Information Processing Systems(**NeurIPS**), 2023.*
 
@@ -117,7 +117,7 @@ Yuanzhi Wang, **Yong Li**, Zhen Cui
 
 **Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning**
 
-Yuanzhi Wang, Zhen Cui, **Yong Li***
+Yuanzhi Wang, Zhen Cui*, **Yong Li***
 
 *Proceedings of the IEEE Conference on International Conference on Computer Vision(**ICCV**), 2023.*
 
