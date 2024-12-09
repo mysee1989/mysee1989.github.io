@@ -58,8 +58,42 @@
     
 <div class='paper-box-image'>
     <div>
+        <!-- <div class="badge"> TAC 2024 </div> -->
+        <img src='images/article/tac2024.jpg' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection**
+
+**Yong Li**, Yi Ren, Xuesong Niu, Yi Ding, Xiu-Shen Wei, Cuntai Guan
+
+*IEEE Transactions on Affective Computing (TAC), 2024.*
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
         <!-- <div class="badge"> PR 2024 </div> -->
-        <img src='images/article/PR_xlf.jpg' alt="sym" width="100%">
+        <img src='images/article/pr2024.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -67,9 +101,9 @@
 
 **Collaborative Contrastive Learning for Cross-Domain Gaze Estimation**
 
-Lifan Xia, **Yong Lia**, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
+Lifan Xia, **Yong Li**, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
 
-*Pattern Recognition(**PR**), 2024.*
+*Pattern Recognition(PR), 2024.*
 
 </div>
 </div>
