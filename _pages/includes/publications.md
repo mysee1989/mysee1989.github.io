@@ -101,7 +101,7 @@
 
 **Collaborative Contrastive Learning for Cross-Domain Gaze Estimation**
 
-Lifan Xia, **Yong Li**, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
+Lifan Xia, **Yong Li#**, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
 
 *Pattern Recognition(PR), 2024.*
 
