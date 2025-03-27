@@ -1,12 +1,12 @@
-# Selected Publications 
-<!-- 注意加入图片的格式，前面是一定要有/的！ -->
+# 代表性论文 
+<!-- 注意加入图片的格式，前面是一定要没有/的！ -->
 
 <div class='paper-box'>
     
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> TPAMI 2020 </div> -->
-        <img src='/images/article/figure14.png' alt="sym" width="100%">
+        <img src='images/article/figure14.png' alt="sym" width="100%">
     </div>
 </div>
 
@@ -29,7 +29,7 @@
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> TPAMI 2020 </div> -->
-        <img src='/images/article/learning.jpg' alt="sym" width="100%">
+        <img src='images/article/learning.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -46,12 +46,13 @@
 </div>
 </div>
 
+
 <div class='paper-box'>
     
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> IEEE 2025 </div> -->
-        <img src='/images/article/Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection.png' alt="sym" width="100%">
+        <img src='images/article/Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection.png' alt="sym" width="100%">
     </div>
 </div>
 
@@ -83,7 +84,7 @@
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> TAC 2024 </div> -->
-        <img src='/images/article/tac2024.jpg' alt="sym" width="100%">
+        <img src='images/article/tac2024.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -118,7 +119,7 @@
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> PR 2024 </div> -->
-        <img src='/images/article/pr2024.jpg' alt="sym" width="100%">
+        <img src='images/article/pr2024.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -144,7 +145,7 @@ Lifan Xia, **Yong Li\***, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/decoupled.jpg' alt="sym" width="100%">
+        <img src='images/article/decoupled.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -171,7 +172,7 @@ Lifan Xia, **Yong Li\***, Xin Cai, Zhen Cui, Chunyan Xu, Antoni B. Chan
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure15.jpg' alt="sym" width="100%">
+        <img src='images/article/figure15.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -198,7 +199,7 @@ Yuanzhi Wang, **Yong Li**\*, Zhen Cui\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/distribution.jpg' alt="sym" width="100%">
+        <img src='images/article/distribution.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -223,7 +224,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure4.jpg' alt="sym" width="100%">
+        <img src='images/article/figure4.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -249,7 +250,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure5.jpg' alt="sym" width="100%">
+        <img src='images/article/figure5.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -271,13 +272,12 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 
 
 
-
 <div class='paper-box'>
     
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure6.jpg' alt="sym" width="100%">
+        <img src='images/article/figure6.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -303,7 +303,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure7.jpg' alt="sym" width="100%">
+        <img src='images/article/figure7.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -329,7 +329,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure8.jpg' alt="sym" width="100%">
+        <img src='images/article/figure8.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -355,7 +355,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure9.jpg' alt="sym" width="100%">
+        <img src='images/article/figure9.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -379,7 +379,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure10.jpg' alt="sym" width="100%">
+        <img src='images/article/figure10.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -406,7 +406,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure11.jpg' alt="sym" width="100%">
+        <img src='images/article/figure11.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -433,7 +433,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure12.jpg' alt="sym" width="100%">
+        <img src='images/article/figure12.jpg' alt="sym" width="100%">
     </div>
 </div>
 
@@ -459,7 +459,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='/images/article/figure13.jpg' alt="sym" width="100%">
+        <img src='images/article/figure13.jpg' alt="sym" width="100%">
     </div>
 </div>
 

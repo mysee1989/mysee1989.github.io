@@ -4,10 +4,28 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+          {% if page.permalink == "/english/" %}
+            <!-- 英文导航栏 -->
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+            <li class="masthead__menu-item"><a href="#about-me">Biography</a></li>
+            <li class="masthead__menu-item"><a href="#selected-publications">Publications</a></li>
+            <li class="masthead__menu-item"><a href="#education">Education</a></li>
+            <li class="masthead__menu-item"><a href="#experience">Experience</a></li>
+            <li class="masthead__menu-item"><a href="#honors">Honors</a></li>
+            <li class="masthead__menu-item"><a href="#services">Services</a></li>
+            <li class="masthead__menu-item"><a href="/"target="_self">中文</a></li>
+          {% else %}
+            <!-- 中文导航栏（默认） -->
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">主页</a></li>
+            <li class="masthead__menu-item"><a href="#about-me">个人简介</a></li>
+            <li class="masthead__menu-item"><a href="#selected-publications">代表性论文</a></li>
+            <li class="masthead__menu-item"><a href="#education">教育经历</a></li>
+            <li class="masthead__menu-item"><a href="#experience">工作经历</a></li>
+            <li class="masthead__menu-item"><a href="#honors">荣誉奖项</a></li>
+            <li class="masthead__menu-item"><a href="#services">学术服务</a></li>
+            <!-- <li class="masthead__menu-item"><a href="/english/">English</a></li> -->
+            <li class="masthead__menu-item"><a href="/english/" target="_self">English</a></li>
+          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
