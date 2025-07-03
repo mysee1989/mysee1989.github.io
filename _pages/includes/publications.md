@@ -59,7 +59,7 @@
 
 **Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection**
 
-**Yong Li**, Liu Menglin, Cui Zhen, Ding Yi, Zong Yuan, Zheng Wenming, Shan Shiguang, Guan Cuntai
+**Yong Li**, Menglin Liu, Cui Zhen, Ding Yi, Zong Yuan, Zheng Wenming, Shan Shiguang, Guan Cuntai
 
 *IEEE Transactions on Image Processing (**TIP**), (**2025**).*
 
@@ -311,7 +311,7 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 
 **Learning Fair Face Representation With Progressive Cross Transformer**
 
-**Yong Li**, Lingjie Lao, Zhen Cui, Shiguang Shan, Jian Yang
+**Yong Li**, Yufei Sun, Zhen Cui, Shiguang Shan, Jian Yang
 
 *Arxiv (**2021**), under review.*
 
