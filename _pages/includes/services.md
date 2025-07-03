@@ -1,7 +1,7 @@
 # Services
 - (Senior) PC Member:
-    - CVPR 2020-2024, ICCV 2021-2023, ECCV 2020-2024
-    - AAAI 2020-2023
+    - CVPR 2020-2025, ICCV 2021-2025, ECCV 2020-2024
+    - AAAI 2020-2024
 - Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - International Journal of Computer Vision (IJCV)
