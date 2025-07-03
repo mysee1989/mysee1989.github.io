@@ -147,7 +147,7 @@ Yi Ding#, **Yong Li#**, Hao Sun, Rui Liu, Chengxuan Tong, Chenyu Liu, Xinliang Z
 
 *IEEE Journal of Biomedical and Health Informatics (**J-BHI**), (**2024**).*
 
-[\[PDF\]](https://openreview.net/pdf?id=rn3thNKvzw)
+[\[PDF\]](https://ieeexplore.ieee.org/document/10763464)
 </div>
 </div>
 
