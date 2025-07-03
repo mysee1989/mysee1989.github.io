@@ -9,8 +9,8 @@ Currently an Associate Professor at Southeast University, affiliated with the [P
 <a href="https://www.seu.edu.cn/">
     <img src="/images/SEU.jpeg" alt="东南大学" width="130px" height="130px" style="float: right;">
 </a>
-Received a Ph.D. degree in computer science from [Institute of Computing Technology (ICT)](http://www.ict.ac.cn), Chinese Academy of Science (CAS), Beijing, in Jun. 2020, advised by professor [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). I was also fortunate to cooperate tightly with [Jiabei Zeng](https://dualplus.github.io/) during my four year phd candidate career.From 2022 to 2024, I studied and worked at City University of Hong Kong (Collaborating Supervisor: [Antion Bert Chan ](https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html)) and Nanyang Technological University, Singapore (Collaborating Supervisor: [Guan Cuntai ](https://ntu-cbcr.org/)).
+I obtained my Ph.D. in Computer Science from [Institute of Computing Technology (ICT)](http://www.ict.ac.cn), Chinese Academy of Science (CAS), in June 2020, under the supervision of Professor [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan). During my doctoral studies, I also engaged in close research collaboration with Associate Professor [Jiabei Zeng](https://dualplus.github.io/). From 2022 to 2024, I conducted full-time academic research at the City University of Hong Kong, in collaboration with Professor [Antion Bert Chan](https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html)), and at Nanyang Technological University, Singapore, in collaboration with Professor  [Guan Cuntai](https://ntu-cbcr.org/)).
 
-Awarded as one of the outstanding doctoral dissertations in the China Society of Image and Graphics in 2021 (Total of 10 in China Mainland Per Year).
+In 2021, my doctoral dissertation, titled "Facial Expression Analysis in Open-World Scenarios", was selected as one of the Top 10 Outstanding Doctoral Dissertations by the China Society of Image and Graphics (CSIG).
 
-I focus on **artifical intelligence**, **multimodal learning**, **generative modelling**, **affective computing**.
+My research interests include **artifical intelligence**, **multimodal understanding**, **generative model**, **affective computing**.
