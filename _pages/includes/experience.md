@@ -5,7 +5,7 @@
 <img src="/images/cityu_logo.jpg" alt="cityu" width="230px" height="230px" style="float: right;"> 
 </a>
 
-- **City University of Hong Kong**, China, Hong Kong 
+- **City University of Hong Kong**, Hong Kong, China
     - Research Fellow, *2022 - 2023*
 
 <a href="https://www.ntu.edu.sg/">
