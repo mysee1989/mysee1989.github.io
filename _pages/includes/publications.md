@@ -103,11 +103,51 @@
 
 
 
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> TAC 2024 </div> -->
+        <img src='/images/article/learning-IR.jpg' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**
+
+Peng Wang, **Yong Li**, Lin Zhao, Xiu-Shen Wei
+
+*International Conference on Machine Learning (**ICML**), (**2025**).*
+
+[\[PDF\]](https://openreview.net/pdf?id=rn3thNKvzw)
+</div>
+</div>
 
 
 
 
 
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> TAC 2024 </div> -->
+        <img src='/images/article/eeg-deformer.jpg' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**EEG-Deformer: A Dense Convolutional Transformer for Brain-computer Interfaces**
+
+Yi Ding#, **Yong Li#**, Hao Sun, Rui Liu, Chengxuan Tong, Chenyu Liu, Xinliang Zhou, Cuntai Guan
+
+*IEEE Journal of Biomedical and Health Informatics (**J-BHI**), (**2024**).*
+
+[\[PDF\]](https://openreview.net/pdf?id=rn3thNKvzw)
+</div>
+</div>
 
 
 
