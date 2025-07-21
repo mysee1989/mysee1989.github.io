@@ -1,8 +1,6 @@
 # 学术服务
 
-<a href="">
 <img src="/images/CCAC_image.jpg" alt="ccac" width="230px" height="230px" style="float: right;"> 
-</a>
 
 - 学术活动
   - [CCAC第五届中国情感计算大会](https://ccac2025.xhu.edu.cn/)讲习班报告；会议地点：成都
