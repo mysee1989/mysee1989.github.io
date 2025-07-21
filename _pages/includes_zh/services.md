@@ -5,7 +5,7 @@
 </a>
 
 - 学术活动
-  - CCAC第五届中国情感计算大会讲习班报告
+  - [CCAC第五届中国情感计算大会](https://ccac2025.xhu.edu.cn/)讲习班报告
     - 报告题目：迈向共情智能：多模态情感分析挑战与机遇初探；会议地点：成都；[\[报告Slides下载\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10904287)
 - (资深) 程序委员:
     - CVPR 2020-2024, ICCV 2021-2023, ECCV 2020-2024
