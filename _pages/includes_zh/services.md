@@ -1,6 +1,6 @@
 # 学术服务
 
-<a href="https://www.cityu.edu.hk/zh-cn">
+<a href="">
 <img src="/images/CCAC_image.jpg" alt="ccac" width="230px" height="230px" style="float: right;"> 
 </a>
 
