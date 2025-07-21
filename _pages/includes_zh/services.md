@@ -1,4 +1,9 @@
 # 学术服务
+
+<a href="https://www.cityu.edu.hk/zh-cn">
+<img src="/images/cityu_logo.jpg" alt="cityu" width="230px" height="230px" style="float: right;"> 
+</a>
+
 - 学术活动
   - CCAC第五届中国情感计算大会讲习班报告
     - 报告题目：迈向共情智能：多模态情感分析挑战与机遇初探；会议地点：成都；报告Slides下载
