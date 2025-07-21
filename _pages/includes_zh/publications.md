@@ -347,32 +347,6 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='images/article/figure7.jpg' alt="sym" width="100%">
-    </div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-**Learning Fair Face Representation With Progressive Cross Transformer**
-
-**Yong Li**, Yufei Sun, Zhen Cui, Shiguang Shan, Jian Yang
-
-*Arxiv (**2021**), under review.*
-
-[\[PDF\]](https://arxiv.org/abs/2108.04983)
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'>
-    
-<div class='paper-box-image'>
-    <div>
-        <!-- <div class="badge"> CVPR 2016 </div> -->
         <img src='images/article/figure8.jpg' alt="sym" width="100%">
     </div>
 </div>
