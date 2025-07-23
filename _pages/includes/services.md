@@ -6,7 +6,7 @@
     - Title: Towards Empathetic Intelligence: A Preliminary Exploration of Challenges and Opportunities in Multimodal Sentiment Analysis [\[Slides\]](/images/ccac_report.pdf)
 - (Senior) PC Member:
     - CVPR 2020-2025, ICCV 2021-2025, ECCV 2020-2024
-    - AAAI 2020-2024
+    - AAAI 2020-2026
 - Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - International Journal of Computer Vision (IJCV)
