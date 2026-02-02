@@ -6,7 +6,7 @@
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> TPAMI 2026 </div> -->
-        <img src='images/article/figure16.png' alt="sym" width="100%">
+        <img src='images/article/figure16.jpg' alt="sym" width="100%">
     </div>
 </div>
 
