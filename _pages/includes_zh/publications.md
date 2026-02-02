@@ -1,5 +1,27 @@
 # 代表性论文 
 <!-- 注意加入图片的格式，前面是一定要没有/的！ -->
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> TPAMI 2026 </div> -->
+        <img src='images/article/figure16.png' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Decoupled Hierarchical Distillation for Multimodal Emotion Recognition**
+
+**Yong Li**, Yuanzhi Wang, Yi Ding, Shiqing Zhang, Ke Lu, Cuntai Guan
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**), (**2026**).*
+
+[\[PDF\]]
+
+</div>
+</div>
+
 
 <div class='paper-box'>
     
