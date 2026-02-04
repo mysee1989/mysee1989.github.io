@@ -17,7 +17,7 @@
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**), (**2026**).*
 
-\[PDF\]
+[\[PDF\]](https://ieeexplore.ieee.org/document/11370718)
 
 </div>
 </div>
