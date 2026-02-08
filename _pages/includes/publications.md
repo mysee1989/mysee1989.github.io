@@ -75,7 +75,7 @@
 <div class='paper-box-image'>
     <div>
         <!-- <div class="badge"> 2026 </div> -->
-        <img src='images/article/DreamActor_M2.jpg' alt="sym" width="100%">
+        <img src='/images/article/DreamActor_M2.jpg' alt="sym" width="100%">
     </div>
 </div>
 
