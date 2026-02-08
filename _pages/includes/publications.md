@@ -69,6 +69,32 @@
 </div>
 </div>
 
+
+<div class='paper-box'>
+    
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge"> 2026 </div> -->
+        <img src='images/article/DreamActor_M2.jpg' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning**
+
+Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, Ruibing Hou, Hong Chang, **Yong Li**, Yuan Zhang, Mingyuan Gao
+
+*Arxiv, (**2026**).*
+
+[\[PDF\]](https://arxiv.org/abs/2601.21716)
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'>
     
 <div class='paper-box-image'>
