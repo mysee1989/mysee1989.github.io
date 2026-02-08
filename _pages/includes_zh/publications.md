@@ -85,7 +85,7 @@
 
 Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, Ruibing Hou, Hong Chang, **Yong Li**, Yuan Zhang, Mingyuan Gao
 
-*Arxiv, (**2026**).*
+*arXiv preprint arXiv:2601.21716, (**2026**).*
 
 [\[PDF\]](https://arxiv.org/abs/2601.21716)
 
