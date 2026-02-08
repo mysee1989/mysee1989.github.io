@@ -441,55 +441,6 @@ Yuanzhi Wang, Zhen Cui\*, **Yong Li**\*
 
 
 
-<!-- <div class='paper-box'>
-    
-<div class='paper-box-image'>
-    <div>
-        <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='images/article/figure11.jpg' alt="sym" width="100%">
-    </div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-**Patch-gated cnn for occlusion-aware facial expression recognition**
-
-**Yong Li**, Jiabei Zeng, Shiguang Shan, Xilin Chen
-
-*International Conference on Pattern Recognition (**ICPR**), (**2018**) **<span style="color:red">(Oral)</span>**.*
-
-[\[PDF\]](http://www.jdl.link/doc/2011/201911019432863571_2018092516364248.pdf)
-[\[Code\]](https://github.com/mysee1989/PG-CNN)
-
-</div>
-</div> -->
-
-
-
-
-
-<!-- <div class='paper-box'>
-    
-<div class='paper-box-image'>
-    <div>
-        <!-- <div class="badge"> CVPR 2016 </div> -->
-        <img src='images/article/figure12.jpg' alt="sym" width="100%">
-    </div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-**Kinnet: Fine-to-coarse deep metric learning for kinship verification**
-
-**Yong Li**, Jiabei Zeng, Jie Zhang, Anbo Dai, Meina Kan, Shiguang Shan, Xilin Chen
-
-*Proceedings of the 2017 Workshop on Recognizing Families In the Wild,13-20, (**2017**) **<span style="color:red">(keynote)</span>**.*
-
-[\[PDF\]](https://dl.acm.org/doi/10.1145/3134421.3134425)
-
-</div>
-</div> -->
-
 
 
 
