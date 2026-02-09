@@ -7,7 +7,7 @@
     - *Sep.2016 – Jun.2020*
     - Ph.D. student, Computer Sciences
 <a href="https://www.zzu.edu.cn/">
-<img src="/images/zzu.jpg" alt="zzu" width="200px" height="150px" style="float: right;"> 
+<img src="/images/zzu.jpg" alt="zzu" width="200px" height="150px" style="float: right; margin-top: 25px;"> 
 </a>
 - **Zhengzhou University & Chinese Academy of Sciences**
     - *Sep.2012 – Jul.2015*
